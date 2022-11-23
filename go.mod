@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/elastic/crd-ref-docs v0.0.8
-	github.com/hacbs-contract/enterprise-contract-controller/api v0.0.0-00010101000000-000000000000
 	github.com/kcp-dev/kcp v0.9.0
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.19.0
