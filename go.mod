@@ -1,4 +1,4 @@
-module github.com/hacbs-contract/enterprise-contract-controller
+module github.com/davidmogar/enterprise-contract-controller
 
 go 1.18
 
